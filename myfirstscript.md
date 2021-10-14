@@ -20,7 +20,7 @@ plot(iris)
 
 ![](myfirstscript_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
-#test
+# test
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or
 by pressing *Ctrl+Alt+I*.
