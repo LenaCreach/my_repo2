@@ -18,9 +18,12 @@ plot(cars)
 plot(iris)
 ```
 
-![](myfirstscript_files/figure-gfm/unnamed-chunk-2-1.png)<!-- --> Add a
-new chunk by clicking the *Insert Chunk* button on the toolbar or by
-pressing *Ctrl+Alt+I*.
+![](myfirstscript_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+
+#test
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or
+by pressing *Ctrl+Alt+I*.
 
 When you save the notebook, an HTML file containing the code and output
 will be saved alongside it (click the *Preview* button or press
